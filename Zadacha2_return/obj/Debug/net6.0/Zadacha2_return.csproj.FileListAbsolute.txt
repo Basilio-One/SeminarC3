@@ -1,0 +1,15 @@
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\Zadacha2_return.csproj.AssemblyReference.cache
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\Zadacha2_return.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\Zadacha2_return.AssemblyInfoInputs.cache
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\Zadacha2_return.AssemblyInfo.cs
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\Zadacha2_return.csproj.CoreCompileInputs.cache
+C:\STUDENT\SeminarC3\Zadacha2_return\bin\Debug\net6.0\Zadacha2_return.exe
+C:\STUDENT\SeminarC3\Zadacha2_return\bin\Debug\net6.0\Zadacha2_return.deps.json
+C:\STUDENT\SeminarC3\Zadacha2_return\bin\Debug\net6.0\Zadacha2_return.runtimeconfig.json
+C:\STUDENT\SeminarC3\Zadacha2_return\bin\Debug\net6.0\Zadacha2_return.dll
+C:\STUDENT\SeminarC3\Zadacha2_return\bin\Debug\net6.0\Zadacha2_return.pdb
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\Zadacha2_return.dll
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\refint\Zadacha2_return.dll
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\Zadacha2_return.pdb
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\Zadacha2_return.genruntimeconfig.cache
+C:\STUDENT\SeminarC3\Zadacha2_return\obj\Debug\net6.0\ref\Zadacha2_return.dll
