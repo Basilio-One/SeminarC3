@@ -1,0 +1,15 @@
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\Zadach3_som.csproj.AssemblyReference.cache
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\Zadach3_som.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\Zadach3_som.AssemblyInfoInputs.cache
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\Zadach3_som.AssemblyInfo.cs
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\Zadach3_som.csproj.CoreCompileInputs.cache
+C:\STUDENT\SeminarC3\Zadach3_som\bin\Debug\net6.0\Zadach3_som.exe
+C:\STUDENT\SeminarC3\Zadach3_som\bin\Debug\net6.0\Zadach3_som.deps.json
+C:\STUDENT\SeminarC3\Zadach3_som\bin\Debug\net6.0\Zadach3_som.runtimeconfig.json
+C:\STUDENT\SeminarC3\Zadach3_som\bin\Debug\net6.0\Zadach3_som.dll
+C:\STUDENT\SeminarC3\Zadach3_som\bin\Debug\net6.0\Zadach3_som.pdb
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\Zadach3_som.dll
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\refint\Zadach3_som.dll
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\Zadach3_som.pdb
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\Zadach3_som.genruntimeconfig.cache
+C:\STUDENT\SeminarC3\Zadach3_som\obj\Debug\net6.0\ref\Zadach3_som.dll
